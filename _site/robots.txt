@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/adam-blog/sitemap.xml
+Sitemap: /sitemap.xml
