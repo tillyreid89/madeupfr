@@ -1,27 +1,14 @@
 ---
 layout: post
-title:  Ibiza
-date:   2017-08-18 13:32:20 +0300
+title:  A Season in Ibiza
+date:   2017-08-21 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: Ibiza.jpg # Add image post (optional)
+img: Ibiza2.jpg # Add image post (optional)
 tags: [Blog, Mountains, Sport]
 author: # Add name author (optional)
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+This is going back five years, but is an experience I’ll never forget. It doesn’t matter the kind of person you are, I think it’s important to step out of your comfort zone and try something new. After living and working in London for almost four years, I decided to break the exhausting routine that was my life at the time. Moving out to Ibiza for the Summer was one of the best decisions I’ve ever made and taught me a lot about what I want out of life. I worked for both a private yacht trip company and a scuba diving school which meant that every single day, I was working on the harbour, five metres from the sea. I worked seven days a week and sometimes it was really hard, but simply being on ‘The White Isle’ as it’s known, made it all worth it; the sun, the music, the atmosphere and most of all, my friends. Being able to go to the beach or boat parties any time of the week, every day is different and the opportunities are always there to meet interesting people. With all that said, you need to have a thick skin to survive the season considering sleep is a luxury out there.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
