@@ -7,21 +7,22 @@ img: Nice4.jpg # Add image post (optional)
 tags: [Blog, Meditation]
 author: # Add name author (optional)
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Where do I even begin? Moving from the UK to Nice is hands down one of the best decisions I’ve ever made. As someone who’s always wanted to live by the sea with warm temperatures all year round, I couldn’t feel any luckier to have spent the last year and a half in such a beautiful, dynamic place.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+![Yosh Ginsu]({{site.baseurl}}/assets/img/Nice.jpg)
 
-Jekyll also offers powerful support for code snippets:
+The lifestyle is very different to that in the UK in the sense that the ability to relax and enjoy life is very much a daily occurrence. Whatever the time of year, the streets are lined with both locals and tourists making the most of the glorious sunshine from laying on the beach to  enjoying the food and flower markets in the Old Town. Dining whether it be breakfast or dinner, is a crucial part of the social life and therefore when it comes to restaurants and cafes, we’re utterly spoilt for choice. Although service can be a little slow sometimes, particularly during peak season, I can't criticise the delicious Breakfast/Brunch at La Femme du Boulanger, located around the centre of Nice. Whether you're hungover on a Sunday morning or just really hungry, this is the best solution to your problem.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+![Yosh Ginsu]({{site.baseurl}}/assets/img/Lafemme2.jpg)
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+With the Mediterranean Sea at your feet, of course the Promenade des Anglais is Nice’s key feature but apart from the idyllic landscape and stunning architecture, Nice itself is filled with shops, galleries, museums, and of course, it’s famous Sunday market. This is where you'll find the local specialities such as Socca and Pastis as well as other essentials originating from the region. If you're worried at all about language barriers, Nice is one of the few places in France where a large portion of the population speak english so communication shouldn't ever be an issue here.
+
+![Yosh Ginsu]({{site.baseurl}}/assets/img/Plongeoir.jpg)
+
+It is also surrounded by a variety of interesting and wonderful places including Cannes, Antibes, Saint Jean Cap Ferrat, Monaco, Saint Tropez and of course Italy. Despite its reputation, you really don't have to be millionaire to enjoy life in the Cote d'Azur. A day trip to any of these places will cost you 10€ at most, or 1.50€ if you prefer the bus. It's just knowing when and where to go.
+
+![Yosh Ginsu]({{site.baseurl}}/assets/img/NiceSunset2.jpg)
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
