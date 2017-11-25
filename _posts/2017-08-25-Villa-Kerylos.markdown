@@ -11,4 +11,4 @@ Situated right on the Mediterranean Sea in Beaulieu-sur-Mer, sits the idyllic Vi
 
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/VillaKerylos4.jpg)
 
-The flourishing gardens provide an equally beautiful and tranquil setting with views of the Mediterranean coastline stretching from Saint Jean Cap Ferrat to Cap d’Ail. Its one of those places where you could just sit and read all day without a care in the world. There are also numerous art exhibitions held throughout the year located in the Gallery of Antiques, perfectly curated to intertwine both modern and ancient works of art. Whatever the time of year, this is somewhere you’ll undoubtedly feel inspired. 
+The flourishing gardens provide an equally beautiful and tranquil setting with views of the Mediterranean coastline stretching from Saint Jean Cap Ferrat to Cap d’Ail. Its one of those places where you could just sit and read all day without a care in the world. There are also numerous art exhibitions held throughout the year located in the Gallery of Antiques, perfectly curated to intertwine both modern and ancient works of art. Whatever the time of year, this is somewhere you’ll undoubtedly feel inspired.

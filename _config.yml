@@ -1,5 +1,5 @@
 title: Made Up
-email: your-email@domain.com
+email: tillyreid89@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -14,7 +14,6 @@ author-pic: madeuptitle.jpg
 about-author: Made Up is a Lifestyle & Travel Blog aimed at inspiring others to explore and experience new cultures around the globe.
 
 # Contact links
-email: # Add your Email address
 phone: # Add your Phone number
 website: # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
