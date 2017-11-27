@@ -19,7 +19,7 @@ website: # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
 github: tillyreid89 # Add your Github handle
 twitter: '@madeupfr' # Add your Twitter handle
-facebook: # Add your Facebook handle
+facebook: 'madeupfr' # Add your Facebook handle
 instagram: 'madeupfr' # Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
@@ -27,7 +27,7 @@ pinterest: # Add your Pinterest handle
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+discus_identifier: tillyreid # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
