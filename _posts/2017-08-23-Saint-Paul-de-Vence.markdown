@@ -11,7 +11,7 @@ Located on a hillside just 20km away from Nice, sits one of my favourite places 
 
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/SaintPaul5.jpg)
 
-Starting with the galleries, the amount and variety is outstanding, particularly when you consider the size of the small medieval town. There are two in particular that stand out and of course, when it comes to art, everyone has their own preference. But for me, the ODD Gallery and Galerie du Vieux Saint Paul are my personal favourites. The Galerie du Vieux Saint Paul often houses a wide selection of Dali and Lothar sculptures for example whilst the ODD Gallery displays a variety of powerful photography and sculptural pieces produced by up and coming artists including Pierre Taurtaut who’s photography work is just beautiful.
+Starting with the galleries, the amount and variety is outstanding, particularly when you consider the size of the small medieval town. There are two in particular that stand out and of course, when it comes to art, everyone has their own preference. But for me, the ODD Gallery and Galerie du Vieux Saint Paul are my personal favourites. The Galerie du Vieux Saint Paul often houses a wide selection of Dali and Lothar sculptures for example, whilst the ODD Gallery displays a variety of powerful photography and sculptural pieces produced by up and coming artists including Pierre Taurtaut who’s photography work is just beautiful.
 
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/SaintPaul6.jpg)
 
