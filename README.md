@@ -1,3 +1,8 @@
+
+
+gulp build
+
+
 # Adam Blog is a minimal clear theme for Jekyll
 
 ![Adam Blog - Imac](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-blog-imac.jpg?raw=true)
@@ -7,6 +12,8 @@
 Check the theme in action [Demo](https://artemsheludko.github.io/adam-blog/)
 
 The main page would look like this:
+
+gulp build
 
 ![Main page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-home-page.jpg?raw=true)
 
